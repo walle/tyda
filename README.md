@@ -1,5 +1,3 @@
-[![Build Status](https://img.shields.io/travis/walle/tyda.svg?style=flat)](https://travis-ci.org/walle/tyda)
-[![Coverage](https://img.shields.io/codecov/c/github/walle/tyda.svg?style=flat)](https://codecov.io/github/walle/tyda)
 [![Godoc](http://img.shields.io/badge/godoc-reference-blue.svg?style=flat)](https://godoc.org/github.com/walle/tyda)
 [![license](http://img.shields.io/badge/license-MIT-red.svg?style=flat)](https://raw.githubusercontent.com/walle/tyda/master/LICENSE)
 [![Go Report Card](https://goreportcard.com/badge/github.com/walle/tyda)](http:/goreportcard.com/report/walle/tyda)
