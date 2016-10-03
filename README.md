@@ -2,7 +2,7 @@
 [![license](http://img.shields.io/badge/license-MIT-red.svg?style=flat)](https://raw.githubusercontent.com/walle/tyda/master/LICENSE)
 [![Go Report Card](https://goreportcard.com/badge/github.com/walle/tyda)](http:/goreportcard.com/report/walle/tyda)
 
-# tyda.go
+# tyda
 
 CLI tool for searching website tyda.se.
 
@@ -16,7 +16,7 @@ $ go get github.com/walle/tyda-api/...
 ## Installation
 
 ```shell
-$ go get github.com/walle/tyda.go/...
+$ go get github.com/walle/tyda/...
 ```
 
 ## Usage
